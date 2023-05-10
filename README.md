@@ -49,7 +49,9 @@ Download [trained-model](https://drive.google.com/file/d/1fMUkyg67QLLzyDMkU1vgns
 ***
 Put trained-model in **LineCounter/expts/Allx768xDnCNN/models/BF32:BLK5:BN0,0:M8:LArelu:LCbefore_decoder:SC0:DSdrop:USbilinear:BD1:N0.00:P1/**   
 ***
-
+***
+**You can download BF32_BLK5_BN0%2C0_M8_LArelu_LCbefore_decoder_SC0_DSdrop_USbilinear_BD1_N0.00_P1-0.9830.h5.001 ~ 007 files from Github and merge one .h5 file with 7-zip(I split with 7z2201-x64.exe)**
+***
 Then play with the provided ipython notebook.
 
 Alternatively, one may play with the inference code using this [google colab link](https://colab.research.google.com/drive/1v-h7eSNhxfCTqQZC_IPGEp_s-sfA6dxn?usp=sharing).
